@@ -17,7 +17,7 @@ const App = () => {
           style={styles.titleIcon} 
           alt="Map Icon" 
         />
-        MyRouteFinder:
+        MyRouteeeFinder:
       </h1>
       <p style={styles.title2}>Explore.Discover.Arrive</p>
 
